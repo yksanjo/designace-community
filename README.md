@@ -1,5 +1,12 @@
 # designace-community
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/designace-community/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/designace-community/actions)
+![License](https://img.shields.io/github/license/yksanjo/designace-community)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/designace-community)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/designace-community)
+
 ## Detailed Description
 
 designace-community is maintained as an industry-grade software project with production-ready engineering practices.  
